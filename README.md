@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**amnicola/amnicola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - Hello, my name is Alex
 - I'm currently a student studying electrical and computer engineering
 - Currently I'm learning a lot about microelectronics and electromagnetics
